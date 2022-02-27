@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @rcamps07
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Python, Data Analytics, Tableau, SQL. I am currently enrolled in a Data Science bootcamp via Springboard. 
-- 💞️ I’m looking to collaborate on maybe help with projects
+- 👀 Currently a lead software engineer at Infosy
 - 📫 How to reach me: 
                      www.linkedin.com/in/raymond-campbell-a6492858 
                      raymond.campbell07@gmail.com
